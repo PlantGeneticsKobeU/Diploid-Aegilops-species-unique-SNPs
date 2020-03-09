@@ -1,7 +1,7 @@
 # Diploid-Aegilops-species-unique-SNPs
 Unique SNP sets that were used in Fig. 4 and Fig.S4 of Tanaka et al. 2020 "Diploid genome differentiation conferred by RNA sequencing-based survey of genome-wide polymorphisms throughout homoeologous loci in Triticum and Aegilops".
 
-UniqueSNPs.zip includes 10 sets of unique SNPs.
+uniqueSNPs.zip includes 10 sets of unique SNPs.
 1) uniqueSNP_A.txt          unique SNPs for A genome
 2) uniqueSNP_AandAm.txt     unique SNPs for A and Am genomes
 3) uniqueSNP_Am.txt         unique SNPs for Am genome
